@@ -1,5 +1,0 @@
-
-User-agent:*
-Disallow:
-
-Sitemap: https://rendertool.github.io/RenderDoc/RenderDocZHS/sitemap.xml
